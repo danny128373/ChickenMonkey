@@ -16,5 +16,4 @@ def chicken_monkey():
         else:
             print(num)
 
-
 chicken_monkey()
